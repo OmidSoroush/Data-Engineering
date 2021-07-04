@@ -1,7 +1,7 @@
 
 # Sparkify Database ETL Project
 
-The purpose of this project ist to create a PostgreSQL database for the company called Sparkify. Specifically, the company wants to put the collected data regarding songs in a SQL database. The project consists data modeling, creating schema and ETL pipeline for the data. 
+The purpose of this project ist to create a PostgreSQL database for the company called Sparkify. Specifically, the company wants to put the collected data regarding songs and log-fiels in a SQL database. The project consists data modeling, creating schema and ETL pipeline for the data. 
 
 The data is modeled based on the star schema model which includes a fact table and multiple dimension tables. A star schema modeling technique is used becaused the data is small and structured. 
 
